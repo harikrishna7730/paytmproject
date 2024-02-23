@@ -1,0 +1,218 @@
+@media (min-width:10px) and (max-width:482px){
+    .caption p{
+        font-size: 13px;
+    }
+    .caption .emoji{
+        display: none;
+    }
+    .home .box2 .box-2{
+        height: 50px;
+        width: 50px;
+    }
+    .e-block{
+        display: none;
+    }
+    .container2 .r1{
+        display: inline-block;
+        justify-content: center;
+        align-items: center;
+        padding-left: 50px;
+        padding-right: 50px;
+        margin-left: -30px;
+        background-color: skyblue;
+    }
+    .container2 div{
+        margin-top: 4px;
+    }
+    .line2{
+        text-align: center;
+        color: black;
+        font-size: 20px;
+        background-color: white;
+    }
+    .home2 .container2{
+        padding-left: 25px;
+        margin: 0px;
+        background-color: white;
+    }
+    .home4{
+        position: relative;
+        top: 200px;
+        margin-left: 20px;
+    }
+    .home4 .line4 h4{
+        font-size: 30px;
+        padding-top: 30px;
+        margin: 0px;
+    }
+    .container4{
+        margin-top: 30px;
+        justify-content: center;
+    }
+     .d-block{
+      height: 1px;
+      width: 1px;
+      display: none;
+    }
+    .home .container div #mobilepic{
+        display: block;
+        padding-left: 40px;
+    }
+   .home .container h1{
+        text-align: center;
+        text-decoration: underline;
+    }
+    .home .container div a{
+       margin-left: 80px;
+    }
+    .footer{
+        display: flex;
+        justify-content: center;
+        position: relative;
+        top: 150px;
+    }
+    .footer .foot ul svg{
+        margin-left: 50px; 
+    }
+    .home5{
+        position: relative;
+        top: 250px;
+    }
+     .home6{
+        position: relative;
+        top: 300px;
+     }
+    .home6 li div  img{
+        display:block;
+    }
+    .home6 li div small{
+        display: none;
+    }
+    .home6 li div strong{
+        font-size: 10px;
+    }
+    .home6 div ul li .cash{
+        display: inline;
+    }
+    .home6{
+        margin-top: 50px;
+        margin-bottom: -20px;
+    }
+    .footer .foot ul{
+       padding: 10px;
+        margin-right: -10px;
+        margin-top: 20px;
+       }
+}
+
+
+/* media query of 427px; */
+
+@media (max-width:427px){
+        .home2 .container2 p{
+            display: none;
+        }
+        .home2 .container2 .r1{
+            display:inline-block;
+            align-items: center;
+            justify-content: center;
+            padding: 5px;
+            margin: 2px;
+            width: 80px;
+            height: 100px;
+            
+        }
+        .home .container div #mobilepic{
+            padding-left: 60px;
+            padding-right: 0px;
+            height: 400px;
+        }
+        .home3 .container3 .line3{
+            background-color: white;
+            text-align: center;
+            color: black;
+        }
+        .home3{
+            position: relative;
+            top: 60px;
+        }
+         .home5{
+            position: relative;
+            top: 100px;
+         }
+         .home2{
+            background-color: white;
+         }
+        .home3 .container3 p{
+            display: none;
+        }
+        .container3{
+            margin: 0px;
+            padding-left: 15px;
+            background-color: white;
+        }
+        .home3{
+            background-color: white;
+        }
+        .container3 .r2{
+            display: inline-block;
+            justify-content: center;
+            align-items: center;
+            background-color: rgb(7, 41, 55);
+            margin-right: 80px;
+        }
+        .home3 .container3 .r2{
+            display:inline-block;
+            align-items: center;
+            justify-content: center;
+            padding: 5px;
+            margin: 1px;
+            width: 80px;
+            height: 100px;
+        }
+        .home{
+            padding:0px;
+            margin: 0px;
+        }
+        .container{
+            margin: 0;
+            padding: 0;
+        }
+        .caption{
+            height: 24px;
+        }
+        .home2 .line2{
+            text-decoration: underline;
+        }
+        .home3 .line3{
+            text-decoration: underline;
+        }
+        .home4 {
+            position: relative;
+            top: 80px;
+        }
+        .home6{
+            position: relative;
+            top: 100px;
+         }
+}
+@media (max-width:321px) {
+     .home .container div a{
+        margin-left: 50px;
+     }
+     .home .container div #mobilepic{
+        padding-left: 20px;
+        padding-right: -20px;
+        margin-bottom: -20px;   
+    }
+    .home2{
+        margin-bottom: 70px ;
+    }
+    .home3{
+        margin-bottom: 70px;
+    }
+    .footer .foot ul a [alt] {
+        margin-left: 55px;
+        padding-top: 10px;
+    }
+}

@@ -1,0 +1,142 @@
+/* navbar */
+.navbar{
+    margin: 0px;
+    padding: 14px;
+}
+.navbar .container li a {
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: 19px;
+}
+.navbar .btn button{
+    padding-right: 50px;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 16px;
+}
+.navbar .btn .bi{
+    position: relative;
+    right: 40px;
+}
+ .caption{
+    height: 44px;
+    background-image: linear-gradient( rgb(215, 212, 212), rgb(248, 247, 247));
+}
+.caption .emoji{
+    font-size: 25px;
+}
+.caption p{
+    text-align: center;   
+}
+div a button{
+    padding: 8px;
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+}
+button:hover{
+    background-color: white;
+    color: black;
+}
+div .lead{
+    font-size: 20px;
+}
+.d-block{
+    display: block;
+  }
+  .home .container div #mobilepic{
+      display: none;
+    }
+    .home{
+        
+    }
+
+/* .container2 */
+.line2{
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+.container2 .r1{
+    display: inline-block;
+    padding: 10px;
+    margin-left: 60px;
+    border: 0px solid black;
+    border-radius: 10px;
+    color: white;
+}
+.container2{
+    margin-left: 100px;
+}
+.home2{
+    background-color: skyblue;
+    height: 280px;
+}
+   .r1:hover{
+    background-color: rgb(43, 118, 151);
+    color: white;
+    height: 160px;
+   }
+   .line2 :hover{
+    text-decoration: underline;
+    color: black;
+   }
+   /* home3 */
+   .container3 .r2{
+    display: inline-block;
+    padding: 10px;
+    margin-left: 60px;
+    border: 0px solid black;
+    border-radius: 10px;
+    color: white;
+}
+.container3{
+    margin-left: 50px;
+}
+.home3{
+    background-color: rgb(9, 57, 75);
+    height: 260px;
+}
+.line3{
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+   .r2:hover{
+    background-color: rgb(43, 118, 151);
+    color: white;
+    height: 140px;
+   }
+   .line3 :hover{
+    text-decoration: underline;
+    color: black;
+   }
+   /* home4 */
+    .home4 .line4 h4{
+    font-size: 50px;
+    margin-left: 120px;
+    margin-top: 60px;
+   } 
+   .container4{
+    background-color: aliceblue;
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+   }
+   /* /* home5 * */
+   .home5{
+    display: flex;
+    justify-content: center;
+   }
+   /* home6 */
+ .home6 div li .cash strong:hover{
+     text-decoration: underline;
+ }
+   /* footer */
+   .footer .foot ul{
+    display: block;
+    margin-right: 0px;
+   }
+   .footer .foot svg{
+    margin-left: 50px;
+   }
